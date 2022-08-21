@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.RadioButton?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.ToggleGroup?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.shape.Circle?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane prefHeight="591.0" prefWidth="880.0" style="-fx-background-color: #f0ffff;" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="designing.Scene2Controller">
+   <children>
+      <Pane prefHeight="591.0" prefWidth="111.0">
+         <children>
+            <Pane layoutX="-10.0" layoutY="51.0" prefHeight="628.0" prefWidth="44.0" style="-fx-background-color: #f0ffff;" />
+            <Pane layoutX="-109.0" layoutY="-212.0" prefHeight="591.0" prefWidth="339.0">
+               <children>
+                  <Text fx:id="helloText" layoutX="112.0" layoutY="283.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Text" wrappingWidth="307.57142639160156">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Text>
+               </children>
+            </Pane>
+         </children>
+      </Pane>
+      <Pane layoutX="297.0" layoutY="56.0" prefHeight="619.0" prefWidth="7.0" style="-fx-background-color: #87ceeb;" />
+      <Pane fx:id="inforBox" layoutY="118.0" prefHeight="558.0" prefWidth="297.0" stylesheets="@application.css">
+         <children>
+            <TextField fx:id="fileName" layoutX="35.0" layoutY="39.0" prefHeight="31.0" prefWidth="228.0" promptText="Type new filename" />
+            <Label fx:id="filename" layoutX="34.0" layoutY="14.0" prefHeight="25.0" prefWidth="111.0" stylesheets="@application.css" text="File name" />
+            <Pane layoutX="35.0" layoutY="70.0" prefHeight="5.0" prefWidth="228.0" styleClass="backgroundColor" stylesheets="@application.css" />
+            <ImageView fitHeight="25.0" fitWidth="31.0" layoutX="8.0" layoutY="42.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../Filename.png" />
+               </image>
+            </ImageView>
+            <Label layoutX="38.0" layoutY="131.0" prefHeight="18.0" prefWidth="70.0" stylesheets="@application.css" text="SPARQL" />
+            <ImageView fitHeight="31.0" fitWidth="25.0" layoutX="8.0" layoutY="149.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../search.png" />
+               </image>
+            </ImageView>
+            <Pane layoutX="35.0" layoutY="349.0" prefHeight="5.0" prefWidth="228.0" styleClass="backgroundColor" stylesheets="@application.css" />
+            <RadioButton fx:id="TurtleCheck" layoutX="38.0" layoutY="424.0" mnemonicParsing="false" text="Turtle">
+               <toggleGroup>
+                  <ToggleGroup fx:id="format" />
+               </toggleGroup>
+            </RadioButton>
+            <RadioButton fx:id="JSONCheck" layoutX="176.0" layoutY="424.0" mnemonicParsing="false" text="JSON" toggleGroup="$format" />
+            <RadioButton fx:id="RDFCheck" layoutX="38.0" layoutY="450.0" mnemonicParsing="false" text="RDF/XML" toggleGroup="$format" />
+            <RadioButton fx:id="NTRIPLESCheck" layoutX="176.0" layoutY="450.0" mnemonicParsing="false" text="NTRIPLES" toggleGroup="$format" />
+            <ImageView fitHeight="31.0" fitWidth="31.0" layoutX="5.0" layoutY="408.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../tick.png" />
+               </image>
+            </ImageView>
+            <Label layoutX="42.0" layoutY="399.0" text="Format" />
+            <Button fx:id="searchButton" layoutX="18.0" layoutY="506.0" mnemonicParsing="false" onAction="#runSearch" prefHeight="31.0" prefWidth="111.0" style="-fx-background-radius: 20;" stylesheets="@application.css" text="Search">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Button>
+            <ImageView fx:id="trueTick1" fitHeight="25.0" fitWidth="25.0" layoutX="266.0" layoutY="42.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../true.png" />
+               </image>
+            </ImageView>
+            <ImageView fx:id="wrongTick1" fitHeight="25.0" fitWidth="25.0" layoutX="266.0" layoutY="42.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../false.png" />
+               </image>
+            </ImageView>
+            <ImageView fx:id="wrongTick2" fitHeight="25.0" fitWidth="25.0" layoutX="266.0" layoutY="149.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../false.png" />
+               </image>
+            </ImageView>
+            <ImageView fx:id="trueTick2" fitHeight="25.0" fitWidth="25.0" layoutX="266.0" layoutY="149.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../true.png" />
+               </image>
+            </ImageView>
+            <ImageView fx:id="wrongTick3" fitHeight="25.0" fitWidth="25.0" layoutX="266.0" layoutY="433.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../false.png" />
+               </image>
+            </ImageView>
+            <ImageView fx:id="trueTick3" fitHeight="25.0" fitWidth="25.0" layoutX="266.0" layoutY="433.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../true.png" />
+               </image>
+            </ImageView>
+            <TextArea fx:id="SPARQLtext" layoutX="35.0" layoutY="149.0" prefHeight="200.0" prefWidth="228.0" promptText="Type SPARQL text" />
+            <Label fx:id="warningFilename" layoutX="35.0" layoutY="75.0" prefHeight="18.0" prefWidth="228.0" text="0" textFill="#f72028" />
+            <Label fx:id="warningSPARQL" layoutX="35.0" layoutY="354.0" prefHeight="18.0" prefWidth="228.0" text="Label" />
+            <Label fx:id="warningFormat" layoutX="38.0" layoutY="467.0" prefHeight="18.0" prefWidth="212.0" text="Label" />
+            <Button fx:id="openfileButton" layoutX="164.0" layoutY="506.0" mnemonicParsing="false" onAction="#openFile" prefHeight="31.0" prefWidth="111.0" text="Open file">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Button>
+            <Label fx:id="correctFilenameLabel" layoutX="36.0" layoutY="76.0" prefHeight="17.0" prefWidth="228.0" text="Label" textFill="#269036" />
+            <Label fx:id="correctFilenameLabel2" layoutX="38.0" layoutY="94.0" prefHeight="18.0" prefWidth="228.0" text="Label" />
+         </children>
+      </Pane>
+      <Pane layoutX="440.0" prefHeight="591.0" prefWidth="457.0">
+         <children>
+            <Text fx:id="countResults" fontSmoothingType="LCD" layoutX="125.0" layoutY="89.0" strokeType="OUTSIDE" strokeWidth="0.0" style="-fx-text-alignment: center;" text="0" wrappingWidth="82.13671875">
+               <font>
+                  <Font size="35.0" />
+               </font>
+            </Text>
+            <Label layoutX="131.0" layoutY="97.0" text="Total results">
+               <font>
+                  <Font size="15.0" />
+               </font>
+            </Label>
+            <TableView fx:id="myTable" layoutX="-129.0" layoutY="118.0" prefHeight="558.0" prefWidth="586.0" style="-fx-background-color: #f5f5f5;" styleClass="column-header-background" stylesheets="@application.css" />
+         </children>
+      </Pane>
+      <Pane prefHeight="56.0" prefWidth="897.0" styleClass="backgroundColor5" stylesheets="@application.css">
+         <children>
+            <Circle fill="#ff471f" layoutX="14.0" layoutY="14.0" radius="9.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle fill="#e5ff1f" layoutX="39.0" layoutY="14.0" radius="9.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle fill="#1fff2a" layoutX="65.0" layoutY="14.0" radius="9.0" stroke="BLACK" strokeType="INSIDE" />
+            <Button fx:id="button2" layoutX="-12.0" layoutY="30.0" mnemonicParsing="false" onAction="#returnScene1" prefHeight="18.0" prefWidth="52.0" style="-fx-background-radius: 30;" text="Back" />
+         </children>
+      </Pane>
+   </children>
+</AnchorPane>

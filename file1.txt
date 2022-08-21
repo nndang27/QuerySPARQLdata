@@ -1,0 +1,1007 @@
+@prefix dbr: <http://dbpedia.org/resource/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix res: <http://www.w3.org/2005/sparql-results#> .
+
+[ rdf:type            res:ResultSet ;
+  res:resultVariable  "p" , "abstract" , "thumb" ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Bãi_Cháy_2005.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Hạ Long (Vietnamese: [hâːˀ lawŋm]) is the capital city and 1st-class provincial city of Quảng Ninh Province, Vietnam. The name Hạ Long means \"descending dragon\". The city was created in 1993, when the old capital, Hòn Gai, was merged with Bãi Cháy – the main tourist area. The city mainly lies on Hạ Long Bay. It is located at about 178 km (111 mi) east of Hanoi. The population in 2013 was 227,000."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Hạ_Long ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Đường_phố_ở_Tam_Kỳ,_Quảng_Nam.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Tam Kỳ (IATA: TMK) is the capital city of Quảng Nam Province, in the South Central Coast of Vietnam."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Tam_Kỳ ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Điện_Biên_Phủ.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Điện Biên Phủ (Vietnamese: [ɗîənˀ ɓīən fû], meaning: Established Frontier Prefecture), is a city in the northwestern region of Vietnam. It is the capital of Điện Biên Province. The city is best known for the decisive Battle of Điện Biên Phủ, which occurred during the First Indochina War of independence against France. The region is a center of ethnic Thai culture. In prior history, the city was formerly called Muang Thaeng."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Điện_Biên_Phủ ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Vung_Tau,_Viet_Nam_2021.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Vũng Tàu (Hanoi accent: [vuŋm˧ˀ˥ taːw˨˩], Saigon accent: [vuŋm˧˩˧ taːw˨˩]) is the largest city of Bà Rịa–Vũng Tàu province in southern Vietnam. The city area is 140 square kilometres (54 square miles), consists of 13 urban wards and one commune of Long Sơn Islet. Vũng Tàu was the capital of the province until it was replaced by the much smaller Bà Rịa city on 2 May 2012. The city is also the crude oil extraction center of Vietnam."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Vũng_Tàu ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Duongntt.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Việt Trì (越池) is the capital city of Phú Thọ Province in the Northeast region of Vietnam. In 2010, the city had a population of 260,288. The city covers an area of 110 square kilometres (42 sq mi). Việt Trì is also the economic centre of the province and contains many industrial firms and service industries."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Việt_Trì ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Entrance_to_Uông_Bí.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Uông Bí is a city of Quảng Ninh Province in the north-eastern region of Vietnam. As of 2003 the district had a population of 98,949. The City covers an area of 240 km². Uong Bi was promoted from a town to a provincial city February 25, 2011."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Uông_Bí ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Hanoi_skyline_at_night.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Hanoi (UK: /(ˌ)hæ-, həˈnɔɪ/ ha-, hə-NOY or US: /hɑː-/ hah-NOY; Vietnamese: Hà Nội [hàː nôjˀ]) is the capital city of Vietnam. It covers an area of 3,358.6 km2 (1,296.8 sq mi). The second largest city in Vietnam, it consists of 12 urban districts, 1 district-leveled town and 17 rural districts. Located within the Red River Delta, Hanoi is the cultural and political centre of Vietnam."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Hanoi ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Chua_Huong_059.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "The Red River Delta Biosphere Reserve (established 2004) is a UNESCO biosphere reserve in the coastal region of northern Vietnam. Mangroves and intertidal habitats of the Red River Delta form wetlands of high biodiversity especially in the Xuan Thuy and Tien Hai districts. These wetlands are of global importance as migratory sites for several bird species."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Red_River_Delta_Biosphere_Reserve ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Donghoi2.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Đồng Hới is the capital city of Quảng Bình Province in the north central coast of Vietnam. The city's area is 155.71 km2 (60.12 sq mi). Population as per the 2017 census was 119,222. It is served by National Highway 1A, the Đồng Hới Railway Station, and airport. By road, Đồng Hới is 486 kilometres (302 mi) south of Hanoi, 195 kilometres (121 mi) south of Vinh, 160 kilometres (99 mi) north of Huế and 1,204 kilometres (748 mi) north of Hồ Chí Minh City. It borders Quảng Ninh District on the west and south, the South China Sea on the east, Bố Trạch District on the north."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Đồng_Hới ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Phanthiet.png?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Phan Thiết (Vietnamese: [fan.tʰíət]) is the capital of Bình Thuận Province on the southeast coast in Vietnam. While most of the inhabitants live in the city center, others reside in the four urban coastal wards, extending from Suối Nước beach in the northeast towards cape Kê Gà in the southwest. Traditionally, fishing and the manufacturing of fish sauce served as the main source of Phan Thiết's local economy. The rise of tourism as the region's primary employer can be attributed to its beaches, and thus its growth is rapidly overshadowing its prevalent fishing industry."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Phan_Thiết ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Phuoc_Binh_from_National_Parks_office.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Phước Bình National Park (Vietnamese: Vườn quốc gia Phước Bình) is a national park in the commune of , Bác Ái District, Ninh Thuận Province. It is located 62 km north-west from Phan Rang town, the capital of Ninh Thuận Province, on the border with Lâm Đồng and Khánh Hòa provinces. Phước Bình National Park was classified as a nature reserve by Decision 125/2002/QD dated 26 September 2002. On 8 June 2006 it was established as a national park under Decision number 822/QĐ-TTg dated 8 June 2006 by then Vice Prime Minister of Vietnam Nguyễn Tấn Dũng."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Phước_Bình_National_Park ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Gia_Nghĩa%2C_Đăk_Nông%2C_Việt_Nam.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Gia Nghĩa is the capital city of Đắk Nông Province, in the Central Highlands of Vietnam. It is located on the main road northward to Buôn Ma Thuột."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Gia_Nghĩa ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Phùng_Chí_Kiên,_tp._Bắc_Kạn,_Bắc_Kạn,_Vietnam_-_panoramio.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Bắc Kạn is the capital of Bắc Kạn Province, Vietnam. The province's only city, it is bordered by Bạch Thông District to the north, north-east and west and Chợ Mới District to the south-east and south-west. As of 2019 it had a population of 45,036 people. The town traces its origins to a fort established in 1880 and upgraded to city on 11 March 2015. It is divided into six wards: Nguyễn Thị Minh Khai, Đức Xuân, Sông Cầu, Phùng Chí Kiên, Huyền Tụng and Xuất Hóa and 2 communes: Dương Quang, Nông Thượng."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Bắc_Kạn ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Tam_Dao_mountain_range.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Tam Dao National Park (Vietnamese: Vườn quốc gia Tam Đảo) is a protected area zone in northern Vietnam. It was established in 1996, succeeding from the Conservation Forest Tam Dao which was formed in 1977. The park is about 85 km northwest of Hanoi."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Tam_Đảo_National_Park ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Da_Nang_in_Vietnam.svg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Da Nang (also written as Đà Nẵng, Danang, /(ˌ)dɑː, də ˈnæŋ, ˈnɑːŋ/ dah, də NANG, NAHNG; Vietnamese: Đà Nẵng, [ɗâː nǎˀŋ]) is a class-1 municipality and the fifth-largest city in Vietnam by municipal population. It lies on the coast of the South China Sea at the mouth of the Hàn River, and is one of Vietnam's most important port cities. As one of the country's five direct-controlled municipalities, it falls under the administration of the central government."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Da_Nang ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Cột_cờ_Lạng_Sơn.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Lạng Sơn is a city in far northern Vietnam, which is the capital of Lạng Sơn Province. It is accessible by road and rail from Hanoi, the Vietnamese capital, and it is the northernmost point on National Route 1A."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Lạng_Sơn ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Di_Linh_District.png?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Di Linh (Vietnamese: Di Linh; French: Djiring) is a district (huyện) of Lâm Đồng Province in the Central Highlands region of Vietnam. As of 2003 the district had a population of 154,472. The district covers an area of 1,628 km². The district capital lies at Di Linh."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Di_Linh_District ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/SapaMountains.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Sa Pa is a district-level town of Lào Cai Province in the Northwest region of Vietnam. As of 2018, the town had a population of 61,498. The town covers an area of 677 km2. The town capital lies at Sa Pa. It is one of the main market towns in the area, where several ethnic minority groups such as Hmong, Dao (Yao), Giáy, Xa Pho, and Tay live."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Sa_Pa ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/ĐèoNgang-2073234670_e426170883_o.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "The Ngang Pass (Vietnamese: Đèo Ngang, IPA: [ɗɛ̂w ŋaːŋ], literally \"Transverse Mountain Pass\") is a mountain pass on the border of the provinces of Quảng Bình and Hà Tĩnh, in the North Central Coast of Vietnam. National Route 1A crosses it as it traverses the Hoành Sơn, a side-spur of the larger Annamite Range. The pass is 2,560 m long, ascending to the height of 250 m (750 ft). Historical French texts refer to the pass as Porte d'Annam."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Ngang_Pass ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Đền_Bà_Chúa_Kho.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Bắc Ninh is a city in the northern part of Vietnam and is the capital of Bắc Ninh Province. The city is the cultural, administrative and commercial center of the province. The city area is 82.60 square km, with a population of 501,199 in November 2017. In January 2006, the town (thị xã) of Bắc Ninh was upgraded to city (thành phố)."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Bắc_Ninh ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Trung_tam_TM_Son_La_-_panoramio.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Sơn La is a city in the north-west region of Vietnam. It is the capital of Sơn La Province. It is bordered by Thuận Châu District, Mường La District, and Mai Sơn District."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Sơn_La ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Khau_Phạ.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "The Khau Phạ Pass (đèo Khau Phạ) is a mountain pass in Mù Căng Chải District, Yên Bái Province, Vietnam. The area is known for terraced rice paddies."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Khau_Phạ_Pass ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Hoi_An_(I).jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Hội An (Vietnamese: [hôjˀ aːn]), formerly known as Fai-Fo or Faifoo, is a city with a population of approximately 120,000 in Vietnam's Quảng Nam Province and is noted as a UNESCO World Heritage Site since 1999. Along with the Cu Lao Cham archipelago, it is part of the Cu Lao Cham-Hoi An Biosphere Reserve, designated in 2009."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Hội_An ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Một_góc_TP.Yên_Bái.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Yên Bái is a city in Vietnam. It is the capital of Yên Bái Province, in the north-east region of Vietnam. The city borders Yên Bình District and Trấn Yên District. The city is a settlement along the banks of the Red River, approximately 183 km northwest of Hanoi. It is one of the important trading hubs between the highlands and the lowlands of Northern Vietnam."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Yên_Bái ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Bửu_Hương_tự.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Châu Phú is a rural district (huyện) of An Giang Province in the Mekong Delta region of Vietnam. As of 2003, the district had a population of 244,305. The district covers an area of 426 km². The district capital lies at Cái Dầu. There are some festivals here, such as the \"Bình Thủy temple worshiping\" and the \"Sir Tây An worshiping\" Châu Phú is located 20 km south of Long Xuyên and 20 km north of Châu Đốc, the main towns in the province. The majority of the population follows the Hòa Hảo religious sect."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Châu_Phú_District ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Ho_Chi_Minh_City_Skyline_(night).jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Ho Chi Minh City (Vietnamese: Thành phố Hồ Chí Minh; [tʰàjŋ̟ fǒ hò cǐ mīŋ̟] or [tʰàn fǒ hò cǐ mɨ̄n]), commonly and formerly officially known as Saigon (Vietnamese: Sài Gòn; [sàj ɣɔ̀n] or [ʂàj ɣɔ̀ŋ]), is the largest city in Vietnam, situated in the south. In the southeastern region, the city surrounds the Saigon River and covers about 2,061 square kilometres (796 square miles)."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Ho_Chi_Minh_City ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Po_Klong_Garai.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Phan Rang–Tháp Chàm, commonly known as Phan Rang, is a city in Vietnam and the capital of Ninh Thuận Province. The community has a population of 161,000 (2004), of which 91,000 (2004) live in the main city. The name Phan Rang' is the Vietnamese pronunciation of Panduranga (a Sanskrit word of Hindu origin) or Parang. The name Tháp Chàm means \"Cham Temple/Tower\" and is named after the Po Klong Garai Temple in the northern part of the city."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     <http://dbpedia.org/resource/Phan_Rang–Tháp_Chàm> ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/VinhCollage.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Vinh (Vietnamese: [viŋ̟]) is the biggest city and economic and cultural center of north-central Vietnam. Vinh is the capital of Nghệ An Province, and is a key point in the East–West economic corridor linking Myanmar, Thailand, Laos and Vietnam. The city is situated in the south-east of the province, alongside the Lam River (Song Lam) and is located on the main north-south transportation route of Vietnam, easily accessible by highway, railroad, boat and air. The recently expanded Vinh International Airport is served daily by four carriers: Vietnam Airlines, VietJet Air, Bamboo Airways and Jetstar Pacific. On September 5, 2008, it was upgraded from Grade-II city to Grade-I city, the fifth Grade-I city of Vietnam after Haiphong, Đà Nẵng and Huế. Vinh is the most populous city in the North "@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Vinh ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Quảng_Ngãi.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Quảng Ngãi is a city in central Vietnam. It serves as the capital city of Quảng Ngãi Province. Quảng Ngãi City borders Tư Nghĩa District to the south and west, Sơn Tịnh District to the northwest and Bình Sơn District to the north. It has an area of 160,15 km² and population of 260,252 inhabitants."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Quảng_Ngãi ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Bach_Ma_NP2.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Bạch Mã National Park (Vietnamese: Vườn quốc gia Bạch Mã) is a protected area in central Vietnam, near the city of Huế. It covers 220 km2 and comprises three zones: a strictly protected core area, an administrative area and a buffer zone. In 2004, the park was being considered for expansion in order to create a corridor from the border with Laos to the sea. The park can be accessed by foot, moped or with a park guide's car."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Bạch_Mã_National_Park ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Cong_Troi.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "The Mụ Giạ Pass (Đèo Mụ Giạ, Quảng Bình) is a mountain pass in the Annamite Range between northern Vietnam and Laos, located 90 km northwest of Đồng Hới, Vietnam. The pass is 418 m above sea level and connects National Road 15 from Tân Ấp in Vietnam to Route 12 in Khammouane Province in Laos."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Mụ_Giạ_Pass ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/BacGiang_City.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Bắc Giang is a city in Vietnam. It is the capital of Bắc Giang Province. Its name, deriving from that of the Province Sino-Vietnamese, means \"north of the river.\" The location is very convenient for transportation: it is 50 km north of Hanoi, in the middle position on major transportation routes (roads, international railway) connecting Hanoi with the Lạng Sơn City and Đồng Đăng international border gate; Bắc Giang is located in an important transportation hub. The runs through the town's southern part heading for Haiphong."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Bắc_Giang ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/PhongNhaCave2.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Phong Nha Cave is a cave in Phong Nha-Kẻ Bàng National Park, a UNESCO World Heritage Site in Quảng Bình Province, Vietnam. It is 7,729 metres long and contains 14 grottoes, as well as a 13,969 metre underground river. While scientists have surveyed 44.5 kilometres of passages, tourists are only allowed to explore the first 1500 metres."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Phong_Nha_Cave ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Emblem_of_Sa_Dec.png?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Sa Đéc is a Provincial city in Đồng Tháp Province in the Mekong Delta of southern Vietnam. It is a river port and agricultural and industrial trading center. The Sa Đéc economic zone consists of Châu Thành, Lai Vung and Lấp Vò districts. As of January 2018, the city has a population of approximately 202,046. There are three industrial zones, designated by the codes A, C1, and C. They attract many businessmen from the Mekong Delta region."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Sa_Đéc ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Buôn_Ma_Thuột_city_square.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Buôn Ma Thuột (formerly Lac Giao) or sometimes Buôn Mê Thuột or Ban Mê Thuột, is the capital city of Đắk Lắk Province in the Central Highlands of Vietnam. Its population was 420,000 in 2016, and grew to 502,170 by 2018. The city is the largest in Vietnam's Central Highlands region, and is famous as the regional \"capital of coffee\". Buôn Ma Thuột is served by Buôn Ma Thuột Airport."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Buôn_Ma_Thuột ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Sepon_02.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Lao Bảo is a small town in Hướng Hóa District of Quảng Trị Province, Vietnam, located in the North Central Coast region, near the border with Laos. Its population is approximately 30,000. As Lao Bảo is located in an advantaged area of commerce and border trade between Vietnam and Laos, this small town has opportunities to do business and exchange timber with Laos and Thailand for profit. Although it is a small town in the border area, it also provides several jobs for the people there. In comparison with the provincial capital of Đông Hà in standard of individual earnings, the earnings of inhabitants of Lao Bao are higher. In Lao Bảo the Sepon River (Vietnamese: Sông Xê-pôn) is the border line between Hướng Hóa and the Savan province of Laos. This river is only 1 meter in depth and its wid"@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Lao_Bảo ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Trung_tâm_Long_Xuyên.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Long Xuyên (Vietnamese: [lāwŋm sʷīən]) is the capital city of An Giang province, in the Mekong Delta region of south-western Vietnam."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Long_Xuyên ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Ngã_tư_Đồng_Xoài.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Đồng Xoài is the capital city of Bình Phước Province in the Southeast region of Vietnam. The city was the site of the 1965 Battle of Đồng Xoài during the Vietnam War. As of 2009, the district had a population of 88,380, and a total area of 168 km². The district capital lies at Đồng Xoài."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Đồng_Xoài ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Vietnam,_Panorama_of_Chau_Doc.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Châu Đốc is a city in An Giang Province, bordering Cambodia, in the Mekong Delta region of Vietnam. As of 2013, the city had a population of 157,298, and cover an area of 105.29 square kilometres (40.65 sq mi). The city is located by the Hậu River (a branch of the Mekong River flowing through Vietnamese territory) and Vĩnh Tế canal. Châu Đốc is situated 250 kilometres (160 mi) west of Ho Chi Minh City. It takes about six hours to travel by bus from Ho Chi Minh City."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Châu_Đốc ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Ben_Tre_city.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Bến Tre ([ˀɓən˦ˀ˥ ʈɛ˧˧] ) is the capital city of Bến Tre Province, in the Mekong Delta area of southern Vietnam. Located 85 kilometers (53 mi) southwest of Ho Chi Minh City, the city covers an area of 65.75 km2 (25.39 sq mi) and has a population of 143,639 as of 2009. Nowadays, Bến Tre is connected to the surrounding provinces by the Rạch Miễu Bridge."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Bến_Tre ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Hà_Giang_City.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Hà Giang is a city located on the banks of the Lô River in the Northeast region of Vietnam. It is the capital of Hà Giang Province. The city has an area of 135.33 km2 and a population of 55 559 inhabitants. The population is composed of 22 different ethnicities, of which 55.7% are Kinh and Tày people."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Hà_Giang ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Tam_Coc.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Tam Cốc-Bích Động is a popular tourist destination in north Vietnam and part of the Tràng An Scenic Landscape Complex UNESCO World Heritage site. It is located in Ninh Binh province, near the village of Tam Cốc. The closest city is Ninh Binh. It consists of two distinct attractions: Tam Cốc, a flooded cave karst system; and Bích Động, a series of mountain pagodas."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     <http://dbpedia.org/resource/Tam_Cốc_–_Bích_Động> ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Dongluatuyenquang.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Tuyên Quang is a city in Vietnam, and is the capital of Tuyên Quang Province."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Tuyên_Quang ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Trung_tâm_thương_mại_Bà_Rịa.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Bà Rịa (Vietnamese: [ɓaː˧˩ riə˧˨˧ˀ]) is a city in Bà Rịa–Vũng Tàu province in the Southeast region of Vietnam. Bà Rịa is split from Vũng Tàu by a river crossed by Cỏ May Bridge.This is the de jure seat of the province since most of the provincial administration agencies are located here. Bà Rịa officially became the provincial capital of Bà Rịa–Vũng Tàu from 2 May 2012, replacing Vũng Tàu in that role."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Bà_Rịa ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Thác_Bà_Lake.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "The Thác Bà Lake (Vietnamese: Hồ Thác Bà) is a manmade lake in Yên Bái Province, Vietnam created by construction of the in the 1960s. Thác Bà is the name of the which pre-existed the dam (cf. Vietnamese: thác nước, waterfall)."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Thác_Bà_Lake ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Đèo_Mã_Pì_Lèng.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Mèo Vạc is a rural district of Hà Giang Province in the Northeast region of Vietnam. As of 2019 the district had a population of 86 071 . The district covers an area of 574 km². The district capital lies at Mèo Vạc."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Mèo_Vạc_District ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Hai_Van_Pass_ocean_view.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "The Hải Vân Pass (Vietnamese: Đèo Hải Vân, IPA: [ɗɛ̂w ha᷉ːj vən], \"ocean cloud pass\"), is an approximately 21 km long mountain pass on National Route 1A in Vietnam. It traverses a spur of the larger Annamite Range that juts into the , on the border of Đà Nẵng and Thừa Thiên–Huế Province, near Bạch Mã National Park. Its name refers to the mists that rise from the sea, reducing visibility. Historically, the pass was a physical division between the kingdoms of Champa and Đại Việt."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Hải_Vân_Pass ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Bắc_Giang_Viet_Yen3.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Việt Yên is a rural district of Bắc Giang Province in the Northeast region of Vietnam. Việt Yên borders on the south with Bắc Ninh Province; on the west with Hiệp Hòa District; on the east with Yên Dũng District; and on the north with Tân Yên District and Bắc Giang City."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Việt_Yên_District ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Công_viên_Bảo_Lộc.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Bảo Lộc (old name in Ma language: B’Lao) is a city of Lâm Đồng Province in the Central Highlands region of Vietnam. Bảo Lộc is famous for its registered trademark: . As of 2018 the town district had a population of 170,920. The district covers an area of 229 km2. The district capital lies at Bảo Lộc."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Bảo_Lộc ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Emblem_of_Phuly_City.png?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Phủ Lý is the capital city of Hà Nam Province of Vietnam 60 km south of Hanoi on the river Đáy."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Phủ_Lý ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Thành_Phố_Hưng_Yên.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Hưng Yên is a city in Vietnam. It is the provincial capital of Hưng Yên Province and is a third-graded city according to Vietnam's city classification table."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Hưng_Yên ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/KienGiangTown.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Kiến Giang is a township in Lệ Thủy District, Quảng Bình Province, in the North Central Coast region of Vietnam. This township is located on the banks of the Kiến Giang River. The township is the capital of the district. The township's main economic activities is commerce and services for the surrounding rural areas. This township is 3 km south of families of Võ Nguyên Giáp, Ngo Dinh Diem and Nguyễn Hữu Cảnh, Dương Văn An, famous persons in the history of Vietnam. The township has an area of 4.4km2, population of 6,246. The town is prone to flooding due to its position in a low plain created by Kiến Giang river."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Kiến_Giang ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Pleiku2.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Pleiku is a city in central Vietnam, located in the Central Highlands region. It is the capital of the Gia Lai Province. Many years ago, it was inhabited primarily by the Bahnar and Jarai ethnic groups, sometimes known as the Montagnards or Degar, although now it is inhabited primarily by the Kinh ethnic group. The city is the centre of the urban district of Pleiku which covers an area of 261 km²."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Pleiku ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Ban_do_TX_Vinh_Yen.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Vĩnh Yên (Vietnamese: [vǐɲˀ ʔīən]) is the city capital of Vĩnh Phúc Province, in the Red River Delta region of northern Vietnam. The population is 76,650 people, the area is 50.87 km². This city hosted 2012 Asian Men's Cup Volleyball Championship."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Vĩnh_Yên ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Son_Doong_Cave_5.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Sơn Đoòng cave (Vietnamese: hang Sơn Đoòng, IPA: [haːŋ˧ ʂəːn˧ ɗɔ̤ŋ˨˩]), in Phong Nha-Kẻ Bàng National Park, Bố Trạch District, Quảng Bình Province, Vietnam, is one of the world's largest natural caves. Located near the Laos–Vietnam border, Hang Sơn Đoòng has an internal, fast-flowing subterranean river and the largest cross-section of any cave, worldwide, as of 2009, believed to be twice that of the next largest passage. It is the largest known cave passage in the world by volume. As a solutional cave, it was formed in soluble limestone and is believed to be between 2 and 5 million years old."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Hang_Sơn_Đoòng ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Camaucity_from_air1.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Cà Mau is a city in southern Vietnam. It is the capital of Cà Mau Province, a province in the Mekong Delta region, in the southernmost part of Vietnam's inland territory. The city is characterized by its system of transport canals and most goods are transported here by boats and barges. The population is approximately 204,895 (as of 2010). Cà Mau is accessible by road (360 km south-west of Ho Chi Minh City) via National Route 1A or by air (Cà Mau Airport). The city is administratively subdivided into 8 urban phường and 7 rural xã."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Cà_Mau ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/My_Tho3.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Mỹ Tho is a city in the Tiền Giang province in the Mekong Delta region of South Vietnam. It has a population of approximately 169,000 in 2006 and 220,000 in 2012. It is the regional center of economics, education and technology. The majority ethnic group is the Kinh; minority groups include the Hoa, the Cham and the Khmer. Boat rides on the Mỹ Tho River are popular with tourists, and the city is known for hủ tiếu Mỹ Tho, a type of rice noodle soup."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Mỹ_Tho ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Bến_Do_xã_Cẩm_Phả.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Cẩm Phả is a city of Quảng Ninh Province in the north-east region of Vietnam. It is an important coal exporting port of Vietnam (UNCTAD: VNCPH). As of February 2012, the city had a population of 195,800. The city covers an area of 486 km2. The city was promoted from Cẩm Phả District by February 2012. Cẩm Phả was the site of one of the biggest coal mines in south of Asia which has been exploited for almost a century. The coal mine featured on a special commemorative Vietnam stamp in March 1959. Coal still forms the basis of Cẩm Phả's local economy, with other industries including quarrying, lime production, port, agriculture, forestry and fisheries."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Cẩm_Phả ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Grotte_Thien_Duong.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Thiên Đường Cave (Paradise Cave) is a cave in Phong Nha-Kẻ Bàng National Park, UNESCO's World Heritage Site, 60 km northwest of Đồng Hới city.Thiên Đường Cave is located on an elevation of 200 meters above the sea level, near the west branch of Ho Chi Minh Highway, in Son Trach Commune, Bố Trạch District, Quảng Bình Province, Vietnam. The cave was discovered by a local man in 2005 and the first 5 km of this cave was explored by explorers from British Cave Research Association in 2005, the whole 31 km was explored and publicly announced by the British cave explorers. This cave is 31 km long, longer than Phong Nha Cave which had been considered the longest cave in this national park. The height can reach to 72 m and 150 m wide. The limestone formation is also more spectacular than that of Ph"@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Thiên_Đường_Cave ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Mui_Ne2.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Mũi Né is a coastal fishing town in the south-central Bình Thuan Province of Vietnam. The town, with approximately 25,000 residents, is a ward of the city of Phan Thiết. Mui Ne and the other wards of Phan Thiet stretch along the coast for approximately 50 kilometers and have been transformed into a resort destination since the mid 1990s, when many visited the area to view the solar eclipse of October 24, 1995. Most notably, tourism has developed in the area from the Phan Thiet city center to Mui Ne, which has more than a hundred beach resorts, as well as restaurants, bars, shops and cafes."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Mũi_Né ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Mong_cai_City.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Móng Cái is a city of Quảng Ninh Province in northern Vietnam. Located on China–Vietnam border, it sits on the southern bank of Beilun River across Dongxing city of China's Guangxi Autonomous Region. It has a population of about 103,000. It is known as one of the wealthiest cities in Vietnam with the average income in some areas exceeding US$20,000 per family. One of these areas is the Trần Phú ward."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Móng_Cái ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Nhà_văn_hóa_3-2_tỉnh_Nam_Định_(Nam_Dinh_3-2_Culture_House)_(02).jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Nam Định is a city in the Red River Delta of northern Vietnam. It is the capital of Nam Định Province. The city of Nam Định is 90 km south-east of Vietnam's capital, Hanoi. From August 18–20 of each year, there is a festival held in Nam Định called the Cố Trạch. This celebration honors General Trần Hưng Đạo, a 13th-century national hero who led Vietnamese forces to victory over the invading Mongols."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Nam_Định ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Trung_tam_TP_Vi_Thanh.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Vị Thanh is a provincial city and also the capital city of Hậu Giang Province in Vietnam. Formerly, it was the capital town of Chương-Thiện province in South Vietnam. In 2004, Vị Thanh became the capital of Hậu Giang Province. It has an industrial zone of 880,000 square metres (217 acres). There are roads, National Highway 61 (which leads to National Road 1A which leads to Cần Thơ Municipality on the Hậu River which leads to Ho Chi Minh City), and water connections by canal and river to the Hậu River. Vị Thanh is the second biggest city of Hậu Giang, after Ngã Bảy became a city in 2020."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Vị_Thanh ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/TPTN.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Tây Ninh is a provincial city in south-eastern Vietnam. It is the capital of Tây Ninh Province, which encompasses the town and much of the surrounding farmland. Tây Ninh is approximately 90 km (55 miles) to the northwest of Ho Chi Minh City, Vietnam's largest city. As of 2013, the city had a population of 153,537, and a total area of 140 km2 (54 sq mi). Besides the Cao Đài Holy See, other tourist attractions include Núi Bà Đen (\"Black Virgin Mountain\") and Dầu Tiếng Lake, one of the largest man-made lakes in Vietnam and Southeast Asia."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Tây_Ninh ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Chợ_Ba_Đồn,_Quảng_Bình.jpeg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Ba Đồn is a town (thị xã) in Quảng Bình Province, Vietnam. The town is equal to a huyện and is located on National Route 1A, about 40 km north of the provincial capital, Đồng Hới. The township is the commercial and service centre serving surrounding rural areas. Ba Đồn was incorporated into a 3rd municipality (town or thị xã) including some neighboring communes of Quảng Trạch District on December 20, 2013. Ba Đồn has an area of 163.1828 km2 and its population in 2013 was 115,196. In 2012, Ba Đồn was recognised as a class IV municipality."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Ba_Đồn ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Cityscape_of_Vinh_Long.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Vĩnh Long is a city and the capital of Vĩnh Long Province in Vietnam's Mekong Delta. Vĩnh Long covers 48.1 kilometres (29.89 mi) and has a population of 147,039 (as of 2009). The name was spelled 永隆 (\"eternal prosperity\") in the former Hán Nôm writing system."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Vĩnh_Long ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Hà_Tĩnh_view_from_Sailing_Tower.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Hà Tĩnh (Vietnamese: [hâː tǐŋ̟ˀ]) is a city in Vietnam. It is the capital of Hà Tĩnh Province, and lies in the North Central Coast region. It is located on National Highway 1A. The Vietnamese capital Hanoi is located 340 km north of Hà Tĩnh, Vinh is located 50 km to the north, and Huế is located 314 km to the south. Hà Tĩnh is 12.5 km from the East Sea."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Hà_Tĩnh ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Đèo_Mã_Pì_Lèng.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "The Mã Pí Lèng Pass is a mountain pass on the Highway 4C in the territory of Pai Lung and Pa Vi commune, Hà Giang province, North Vietnam. It is approximately 20 kilometres (12 mi) long, on the section of the Highway 4C connecting the towns of Đồng Văn and Mèo Vạc. It is at the altitude of 1,500 m (4,921 ft). The road was first built by Yao, H'mong, Tay and Lolo minority people. This section of the Highway 4C was constructed in the years of 1960."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Mã_Pí_Lèng_Pass ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Phi_lai.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Ba Chúc is a town (thị trấn) of the Tri Tôn District of An Giang Province, Vietnam. During the Vietnam War, the village came to the attention of Americans when it was revealed in The New York Times that civilians there had been forced by ARVN officers and their American advisers to remove landmines planted by Viet Cong and NVA units. In 1978 the village was the scene of the killing of an estimated 3,157 civilians by Khmer Rouge forces from neighbouring Cambodia in what became known as the Ba Chúc Massacre."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Ba_Chúc ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Ngã_Bảy_Hậu_Giang.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Ngã Bảy is a city of Hậu Giang Province in the Mekong Delta region of Vietnam. With a population of 101,192 (2017), it is the biggest city of Hau Giang, surpassing the capital Vi Thanh. It was originally part of Phụng Hiệp District. In 2005, it was split from Phụng Hiệp and was originally named Tân Hiệp, but was met with objections from locals. In late 2006, it was renamed Ngã Bảy, after a popular market in the district. It has a population of 61,024 and an area of 78.9493 km2 (2005). It is administratively subdivided into 4 phường (urban wards) (Hiệp Lợi, Hiệp Thành, Lái Hiếu and Ngã Bảy) and 2 xã (rural communes) (Đại Thành and Tân Thành)."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Ngã_Bảy ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Thu_Dau_Mot_Collage.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Thủ Dầu Một is the capital city of Bình Dương province, Vietnam, located at around 10°58′0″N 106°39′0″E﻿ / ﻿10.96667°N 106.65000°E. The city has an area of 118.66 km², with a population of 417,000 (as of 2018), and is located 20 km north of downtown Hồ Chí Minh City, on the left bank of the Saigon River, upstream from the city."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Thủ_Dầu_Một ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Rach_Gia.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Rạch Giá is a provincial city and the capital city of Kiên Giang province, Vietnam. It is located on the eastern coast of the Gulf of Thailand, 250 kilometres (160 mi) southwest of Ho Chi Minh City. East of city, it borders Tân Hiệp and Châu Thành town, the Gulf of Thailand is to the west and surrounds some parts of the city, south of the city is Châu Thành and An Biên town, and to the north it borders Hòn Đất and Tân Hiệp."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Rạch_Giá ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Ninh_Bình.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Ninh Bình is a small city in the Red River Delta of northern Vietnam. It is the capital of Ninh Bình Province."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Ninh_Bình ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Lào_Cai.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Lào Cai ([làːw kāːj]) is a city in the Northwest region of Vietnam. It is the capital of Lào Cai Province. The city borders Bảo Thắng District, Bát Xát District, Sa Pa and the city of Hekou Yao Autonomous County, in Yunnan province of southwest China. It lies at the junction of the Red River (Sông Hồng) and the Nanxi River (Yunnan) approximately 160 miles (260 km) northwest of Hanoi. It is a market town for timber, and the Lào Cai Railway Station is located on the Hải Phòng railway to Yunnan Province in China."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Lào_Cai ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Xuan_Huong_Lake_11.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Da Lat (also written as Dalat, Vietnamese: Đà Lạt; Vietnamese pronunciation: [ɗâː làːt]), is the capital of Lâm Đồng Province and the largest city of the Central Highlands region in Vietnam. The city is located 1,500 m (4,900 ft) above sea level on the Langbian Plateau. Da Lat is one of the most popular tourist destinations in Vietnam. Residents and tourists have said that Da Lat has all four seasons in one day: spring in the morning, summer at noon, autumn in the afternoon and winter at night, from the sunset to the sunrise."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Da_Lat ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Emblem_of_Bienhoa_City.png?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Biên Hòa (Northern accent: , Southern accent: ) is the capital city of Đồng Nai Province, Vietnam and part of the Ho Chi Minh City metropolitan area and located about 30 kilometres (20 mi) east of Hồ Chí Minh City (formerly Saigon), to which Biên Hòa is linked by Vietnam Highway 1. It is the fifth largest city in Vietnam."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Biên_Hòa ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Thành_cổ_Quảng_Trị_ngày_nay.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Quảng Trị is a district-level town in Quảng Trị Province in the North Central Coast region of Vietnam. It is second of two municipalities in the province after the provincial capital Đông Hà."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Quảng_Trị ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Nhà_thờ_gỗ_Kon_Tum.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Kon Tum is the capital city of Kon Tum Province in Vietnam. It is located inland in the Central Highlands region of Vietnam, near the borders of Laos and Cambodia."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Kon_Tum ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Bưu_điện_Sóc_Trăng.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Sóc Trăng is a city in Vietnam. It is the capital of Sóc Trăng Province. It was upgraded from a town (thị xã) to a city following decree 22/2007/NĐ-CP on 8 February 2007."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Sóc_Trăng ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Emblem_of_Haiduong_City.png?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Hải Dương is a city in Vietnam. It is the capital of Hải Dương, an industrialized province in the Hanoi Capital Region and the Red River Delta in Northern Vietnam. The city is at the midpoint between the capital Hanoi and major port Haiphong, and is part of the Northern Key Economic Zone. In 2019, Hai Duong city had a population of 507,469."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Hải_Dương ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Chợ_Cần_Thơ.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Cần Thơ also written as Can Tho or Cantho (standard Vietnamese: [kə̂n tʰəː], Southern: [kʌŋ˨˩ tʰəː]) is the fourth-largest city in Vietnam, and the largest city along the Mekong Delta region in Vietnam. It is noted for its floating markets, rice paper-making village, and picturesque rural canals. It has a population of around 1,282,300 as of 2018, and is located on the south bank of the Hậu River, a distributary of the Mekong River. In 2007, about 50 people died when the Cần Thơ Bridge collapsed, causing Vietnam's worst engineering disaster. In 2011, Cần Thơ International Airport opened."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Cần_Thơ ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/ExpositionHanoi1902_GrandPalais_(1).jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "The Grand Palais or Grand Palais de l'Exposition (Vietnamese: Nhà Đấu xảo) was an exhibition and trade fair complex in Hanoi, Vietnam. It was built for the 1902 Hanoi Exhibition world trade fair, as the city became the capital of French Indochina. It was completely destroyed by American airstrikes in World War II."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     <http://dbpedia.org/resource/Grand_Palais_(Hanoi)> ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Nha_Trang_banner.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Nha Trang (English: /ˌnjɑːˈtræŋ/ or /ˌnɑːˈtræŋ/; Vietnamese: [ɲaː˧ ʈaːŋ˧]) is a coastal city and capital of Khánh Hòa Province, on the South Central Coast of Vietnam. It is bounded on the north by Ninh Hoà district, on the south by Cam Ranh town and on the west by Diên Khánh District. The city has about 392,000 inhabitants, a number that is projected to increase to 560,000 by 2015 and 630,000 inhabitants by 2025. An area of 12.87 km2 (4.97 sq mi) of the western communes of and is planned to be merged into Nha Trang which will make its new area 265.47 km2 (102.50 sq mi) based on the approval of the Prime Minister of Vietnam in September 2012."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Nha_Trang ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Ba_Be_Lake_6464.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Ba Bể National Park (Vietnamese: Vườn Quốc Gia Ba Bể) is a reserve in Bắc Kạn Province, Northeast region of Vietnam, set up to protect a very murky lake (Ba Bể Lake) along with surrounding limestone and highland nevergreen forests. It is located about 1cm northwest of the capital city Hanoi."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Ba_Bể_National_Park ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Lo_O_Stream,_Nui_Chua_National_Park.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Núi Chúa National Park (Vietnamese: Vườn quốc gia Núi Chúa), formerly Núi Chúa Nature Reserve is a national park in the province of Ninh Thuận Province, on the border with Khánh Hòa Province, South Central Coast, Vietnam."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Núi_Chúa_National_Park ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Le_Loi_avenue.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Thanh Hóa (Vietnamese: [tʰajŋ̟ hwǎː]) is the capital of Thanh Hóa Province. The city is situated in the east of the province on the Ma River (Sông Mã), about 150 kilometers (93 miles) south of Hanoi and 1560 kilometers (969 miles) north of Ho Chi Minh City. Thanh Hoa became one of the most populous cities in North Central Coast after expanding in 2012, with a population of approximately 400,000. Thanh Hoa township was upgraded to Thanh Hoa City in 1994 and has been the historical center of politics, economy, culture, education and entertainment of Thanh Hóa Province."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Thanh_Hóa ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Hang_Én_Cave_-_201505_-_JB.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Hang Én ('swift cave' in Vietnamese, named for the birds that nest in it), occasionally referred to as Én cave in English, is a cave in Phong Nha-Ke Bang National Park, a UNESCO World Heritage Site. Én is the third largest cave in the world, after Hang Sơn Đoòng in the same national park, and Deer Cave in Malaysia. The cave has its own jungle, waters, beach, and climate. There are three known entrances to Hang Én."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Hang_Én ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Bạc_Liêu_skyline.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Bạc Liêu (Vietnamese: [ɓàːk liəw]) is a provincial city and capital of the Bạc Liêu Province in the Mekong Delta region in southern Vietnam. It is a medium-sized town with a population of approximately 150,000. The former name of the city is Vĩnh Lợi."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Bạc_Liêu ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Cat_Tien_National_Park,_Vietnam.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Cát Tiên National Park (Vietnamese: Vườn quốc gia Cát Tiên) is a national park located in the south of Vietnam, approximately 150 km north of Ho Chi Minh City. It has an area of about 720 km2 and protects one of the largest areas of lowland tropical forests left in Vietnam."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Cát_Tiên_National_Park ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Bai_Tu_Long_Bay.jpeg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Bai Tu Long Bay is a bay in Vietnam. It encompasses Bai Tu Long National Park. Bai Tu Long Bay is northeast of Hạ Long Bay."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Bai_Tu_Long_Bay ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Đồng_cỏ_và_chim_nước.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Tràm Chim National Park (Vietnamese: Vườn quốc gia Tràm Chim) is a national park in the Plain of Reeds in the Mekong Delta region of Vietnam. The park was created to restore a degraded wetland, in order to protect several rare birds, especially the sarus crane (Grus antigone sharpii)--a species listed on the IUCN Red List. It is also a designated wetland of international importance under the Ramsar Convention."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Tràm_Chim_National_Park ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/TuyHoaCT.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Tuy Hòa is the capital city of Phú Yên Province in south-central Vietnam. The city has a total area of 107 km2 and a population of 202,030 (in 2012). The city is located approximately midway between Nha Trang and Qui Nhơn. The city is formulated mainly from alluvial of the downstream of Đà Rằng River. There are two mountains in the center of the city: Chóp Chài Mountain and Nhạn Mountain. Đà Rằng River and Nhạn Mountain create a poetic landscape. There is a Champa Temple on the top of Nhạn Mountain. Standing at this place, visitors can easily enjoy a full view of Tuy Hòa city."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Tuy_Hòa ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Ha_Tien_shophouses.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Hà Tiên is a Provincial city in Kiên Giang Province, Mekong Delta in Vietnam. Its area is 10,049 ha and the population as of 2019 is 81,576. The city borders Cambodia to the west. Hà Tiên is a tourist site of the region thanks to its beaches and landscapes."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Hà_Tiên ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Búng_Bình_Thiên.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Búng Bình Thiên, or God lake, is one of the largest fresh water lake in Mekong Delta in Vietnam. Located in An Phu District, province of An Giang, linking three communes, namely Khánh Bình, Nhơn Hội and Quốc Thái, and adjoining Bình Di River and Hậu River, the natural lake is becoming known as an eco-tourist area."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Búng_Bình_Thiên ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Hải_Phòng_2019.png?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Haiphong (Vietnamese: Hải Phòng, IPA: [ha᷉ːj fâwŋ͡m]), or Hai Phong, is a major industrial city and the third-largest in Vietnam. Hai Phong is also the center of technology, economy, culture, medicine, education, science and trade in the Red River delta."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Haiphong ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Vietnam_Service_Medal_ribbon.svg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Camp Lê Văn Duyệt (also known as Capital Military District Headquarters, Capital Military Assistance Command or CMAC and Camp Goodman ) was a French Army, Army of the Republic of Vietnam and United States Army base located in District 10, Saigon, Vietnam. It remains in use today by the People's Army of Vietnam (PAVN)."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Camp_Lê_Văn_Duyệt ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/NGOC_SUONG_RESORT,CAM_RANH,KHANH_HOA_-_panoramio_(1).jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Cam Ranh is a city in southern Khánh Hòa Province, in the South Central Coast region of Vietnam."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Cam_Ranh ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Xuan_Son.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Xuân Sơn National Park (Vietnamese: Vườn quốc gia Xuân Sơn) is a national park of Tân Sơn District, Phú Thọ Province, Vietnam. It was established on August 9, 1986 as a nature reserve, and it covers an area of 150.48 square kilometres. The park lies at the extreme south-eastern extent of the , 45 kilometres south-west of the confluence of the Red River and Black Rivers."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Xuân_Sơn_National_Park ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Emblem_of_Dian_City.png?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Dĩ An is a city of Bình Dương Province in the Southeast region of Vietnam, about 20 km north of Ho Chi Minh City (formerly Saigon). It is 1,706 km by rail from Hanoi. At the 2009 census the city had a population of 73,859. The town covers 60 km². Dĩ An consists of seven districts: Dĩ An, An Bình, Bình An, Bình Thắng, Đông Hòa, Tân Bình and Tân Đông Hiệp."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Dĩ_An ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Emblem_of_Thainguyen_City.png?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Thái Nguyên is a city and municipality in Vietnam. It is the capital and largest city of Thái Nguyên Province. The city is listed as a first class city and is the ninth largest city in Vietnam. It has long been famous throughout Vietnam for its Tân Cương tea. In 1959, it become the site of Vietnam's first steel mill, and is now home to a large and growing major regional university complex."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Thái_Nguyên ;
+                                       res:variable  "p"
+                                     ]
+                      ]
+] .

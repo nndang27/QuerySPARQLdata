@@ -1,0 +1,111 @@
+.root{
+   -fx-background-color: #111111;
+}
+.label{
+   -fx-font-size: 20;
+   -fx-font-family: "Lucida Console";
+   -fx-text-fill: "white";
+}
+#titleApp{
+   -fx-font-size: 30;
+   -fx-font-family: "Arial Black";
+   -fx-text-fill: "white";
+}
+#titleApp1{
+   -fx-font-size: 30;
+   -fx-font-family: "Arial Black";
+   -fx-text-fill: "white";
+}
+#titleApp2{
+   -fx-font-size: 30;
+   -fx-font-family: "Arial Black";
+   -fx-text-fill: "white";
+}
+#titleApp3{
+   -fx-font-size: 30;
+   -fx-font-family: "Arial Black";
+   -fx-text-fill: "white";
+}
+#titleApp4{
+   -fx-font-size: 30;
+   -fx-font-family: "Arial Black";
+   -fx-text-fill: "white";
+}
+#welcome{
+   -fx-font-size: 60;
+   -fx-font-family: "UTM A&S Signwriter";
+   -fx-text-fill: #3cbed9;
+   align-self: center;
+}
+.backgroundColor{
+    -fx-background-color: linear-gradient(to left bottom, #61D8DE, #E839F6);
+}
+.backgroundColor1{
+    -fx-background-color: linear-gradient(to left bottom,  #00fa9a, #ff6347);
+}
+.backgroundColor2{
+    -fx-background-color: linear-gradient(to left bottom, #f0e68c, #ff69b4);
+}
+.backgroundColor3{
+    -fx-background-color: linear-gradient(to left bottom, #0000ff, #9400d3);
+}
+.backgroundColor4{
+    -fx-background-color: linear-gradient(to left bottom, #228b22, #b22222);
+}
+.backgroundColor5{
+    -fx-background-color: linear-gradient(to right bottom, #61D8DE, #E839F6);
+}
+#typeUserName{
+    -fx-background-color:  #ffffff;
+    -fx-background-radius: 20;
+}
+#buttonNext{
+    -fx-background-color:  #00bfff;
+    -fx-background-radius: 20;
+}
+#inforBox{
+    -fx-background-color:  #BAEAC3;
+    -fx-background-radius: 14;
+}
+.label{
+   -fx-font-size: 14;
+   -fx-font-family: "Cambria";
+   -fx-text-fill: #878787;
+   align-self: center;
+}
+.table-view .column-header-background{
+   -fx-background-color:  #ff8c00;
+   -fx-background-insets: 0 0 10 0;
+   -fx-background-radius: 14;
+}
+.table-view .column-header, .table-view .filler{
+   -fx-size:50px;
+   -fx-border-width: 0 0 10 0;
+   -fx-background-color:transparent;
+}
+#warningFilename{
+    -fx-text-fill: #ff0000;
+}
+#warningSPARQL{
+    -fx-text-fill: #ff0000;
+}
+#warningFormat{
+    -fx-text-fill: #ff0000;
+}
+#button2{
+    -fx-background-color:  #4682b4;
+}
+#openfileButton{
+    -fx-background-color: #9acd32;
+    -fx-background-radius: 20;
+}
+#searchButton{
+    -fx-background-color: #32cd32;
+    -fx-background-radius: 20;
+}
+#correctFilenameLabel{
+    -fx-text-fill: #2e8b57;
+}
+#correctFilenameLabel2{
+    -fx-text-fill: #2e8b57;
+}
